@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Albani E-Commerce
+
+Website toko online untuk produk fashion dan lifestyle.
+
+✅ Ini adalah update terbaru!
+
 ## Available Scripts
 
 In the project directory, you can run:
